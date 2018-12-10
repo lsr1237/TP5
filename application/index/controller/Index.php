@@ -17,4 +17,9 @@ class Index
         $data = 'what heppen?';
         return $data;
     }
+    public function test_git2()
+    {
+        $data = 'kao';
+        return $data;
+    }
 }
