@@ -22,4 +22,9 @@ class Index
         $data = 'kao';
         return $data;
     }
+    public function test_git_branch()
+    {
+        $a = 'sdfds';
+        return '分支开发';
+    }
 }
