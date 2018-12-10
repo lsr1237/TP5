@@ -27,4 +27,9 @@ class Index
         $a = 'sdfds';
         return '分支开发';
     }
+    public function test_git_home()
+    {
+        $data = '在家进行开发'；
+        return $data;
+    }
 }
