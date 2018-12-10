@@ -12,4 +12,9 @@ class Index
     {
         return 'hello,' . $name;
     }
+    public function test_git()
+    {
+        $data = 'what heppen?';
+        return $data;
+    }
 }
